@@ -142,7 +142,7 @@
   }
   
   .one{
-    background-image: url("SURYAKIRAN1.png");
+    background-image: url("./images/SURYAKIRAN1.png");
   }
   .circle:hover .img{
     transform: scale(1.2);
